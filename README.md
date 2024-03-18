@@ -2,7 +2,7 @@
 
 This project is for practicing terraform, aws, gcp and Jenkins.
 
-With this repo you can spin up Jenkins with single command in GCP and then you can use Jenkins to spin up VM's in GCP to run your application.
+With this repo you can spin up Jenkins server in AWS with single command and then you can use Jenkins to spin up VM's in GCP to run your application.
 
 ### Things to note:
 
