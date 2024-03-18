@@ -1,4 +1,4 @@
-## Automated Iaas and Build Process
+## Automated IaC and Build Process
 
 This project is for practicing terraform, aws, gcp and Jenkins.
 
