@@ -1,0 +1,5 @@
+jenkins-iaas/.terraform.lock.hcl
+.terraform
+.terraform.lock.hcl
+terraform.tfvars
+.DC_Store
